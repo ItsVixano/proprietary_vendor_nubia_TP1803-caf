@@ -1,4 +1,6 @@
-# All unpinned blobs below are extracted from PixelExperience_TP1803-11.0-20210818-2326-OFFICIAL.zip
+## All unpinned blobs below are built from source on Android 11
+## LA.QSSI.11.0.R1.11.00.00.668.122.00 - LA.UM.9.1.R1.11.00.00.604.102.00
+## gitlab:itsvixano-dev/android/tadiphone-caf/vendor_qcom_proprietary @ 9a79e3c6b709ced2c53befa46628395989d8892b
 
 # Camera
 vendor/firmware/CAMERA_ICP.elf
